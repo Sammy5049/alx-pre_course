@@ -1,1 +1,2 @@
-My new direc
+My first readme
+Updated
